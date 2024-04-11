@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1712354117 source:c:\users\aliso\desktop\guias de lab-progra-ll\guia5\guia4\main.cpp
+	<iostream>
+	"IOSWindows.h"
+
+1712353624 c:\users\aliso\desktop\guias de lab-progra-ll\guia5\guia4\windows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712353080 c:\users\aliso\desktop\guias de lab-progra-ll\guia5\guia4\iapariencia.h
+
+1712354117 c:\users\aliso\desktop\guias de lab-progra-ll\guia5\guia4\ioswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
